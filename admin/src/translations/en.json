@@ -1,0 +1,6 @@
+{
+  "shopify-collection-field.label": "Shopify Collection",
+  "shopify-collection-field.description": "A Shopify Collection",
+  "shopify-collection-field.options.advanced.requiredField.label": "Required field",
+  "shopify-collection-field.options.advanced.requiredField.description": "You won't be able to create an entry if this field is empty"
+}
