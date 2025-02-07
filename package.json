@@ -1,6 +1,9 @@
 {
   "version": "1.0.0",
-  "keywords": [],
+  "keywords": [
+    "strapi plugin",
+    "shopify"
+  ],
   "type": "commonjs",
   "exports": {
     "./package.json": "./package.json",
