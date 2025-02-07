@@ -70,5 +70,9 @@
   "name": "shopify-fields-plugin",
   "description": "Add Shopify fields",
   "license": "MIT",
-  "author": "Jeff Segovia <jeff@showpo.com>"
+  "author": "Jeff Segovia <jeff@showpo.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffshowpo/shopify-fields-plugin"
+  }
 }
